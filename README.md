@@ -1,2 +1,3 @@
 # GDJS_SocketIO
-## Action
+## Actions
+![a](Capturar.png)
